@@ -1,0 +1,8 @@
+- It also depends on the purpose of PR, is it related to issue, or not?
+So we can say some sources depend on the PR purpose.
+- We have "Goes back to Conversations" -> When do use the code "PR Conversation".
+- There is one bar that does not have any title.
+- 08:50 - Testing, the person looks at the testing checks (from automated tools)
+- The whole part about the IDE is missing in the video, could not really see it.
+- Clean-up can be better "PR documentation"
+- Review size is mentioned in P9R1 but not in P4 while the P4-reviewer mention that it is easy to review since it is a small review. 

@@ -1,0 +1,48 @@
+"They look at the number of lines added and deleted in the PR ...." -> Models -> Specification and Implementation or Pre-existing
+
+
+"They describe their PR conventions..... " -> Knowledge base > Team Standards
+
+
+"The reviewer always checks whether it is something related to the change, something expected or really broken" ->  Activities > Testing or Model > Collective or Model > actual > Ideal
+
+
+" Since the tests are not passing," -> Model > actual > Ideal
+WHY? DOES NOT TALK ABOUT MENTAL REPRESENTATION. MAYBE ANNOTATION?
+
+"firstly scrolls through the whole change to see how many things are changed" > Pre-existing
+NOT SURE, BUT I PUT IT
+
+
+"The reviewer considers it important but skips it saying to get back to it later" -> Compehension scope. 
+THIS WAS PART OF THE EASY TO REVIEW FIRST STRATEGY
+
+" They check the current dependencies so it makes sense to update that cache. " -> Model > Actual > Annotations
+DONE
+
+"The reviewer does not understand it so checks it out." -> Model > Actual > Implementaiton
+DONE
+
+"Tries to Google for the upgrade as the author" -> Activitites > Searching/verifying sources 
+THIS IS COVERED IN THE INFORMATION SOURCES AND MICROSTRATEGIES
+
+"The reviewer is still confuses on the naming part and misses the rationale for the presence of a last line." -> Model > Actual > Annotations
+DONE
+
+" Assumes that it is because that version did not work with the migration" -> Model > Actual > Annotations
+DONE
+
+" Review app to see whether it is up and running" -> Model > Expected or Activitites > Testing
+THIS IS WITHIN THE TESTING AS A STRATEGY AS A MENTAL MODEL ACQUISITION
+
+"Goes to the local terminal to check the change locally." -> Activitites > Testing
+ALSO IN THE TESTING AS STRATEGY
+
+
+" The reviewer reminds their own review checklist that the typecheck and tests has to work locally " -> Knowledge base > Team Standards
+DONE
+
+
+
+
+

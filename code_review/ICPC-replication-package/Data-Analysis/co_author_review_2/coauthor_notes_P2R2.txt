@@ -1,0 +1,24 @@
+- From the line "uses the comparing commits" to "review it accordinf to the file header information"
+	- Should we have something when reviewers check different views to see the diff hunks and build the mental model of the changes (or pre-existing) > comprehension scope or Model > build Expectation.
+WHY?
+I DID NOT CODE REALLY WHEN REVIEWERS MAKE MISTAKES BASED ON CONFUSING UIS BECAUSE WE WOULD BE CODING NOISE WHILE WE ARE TRYING TO EXTRACT WHAT IS THE EFFICIENT PROCESS. IF THERE IS A MEANING TO THE SWITCHES IN VIEWS WE CAN CODE IT BUT RATHER NOT AS AN INTERFACE THING. THIS MIGHT BE WELL COVERED IN USING PATCHES AS AN INFORMATION SOURCE
+
+- " Appreciate one change that sorts" -> Ideal but It is the expectation that is met. 
+THIS IS SORT OF ADHERENCE TO THE EXPECTATION OF IDEAL OR A STANDARD BEING FOLLOWED. SO THERE IS NOT AN IDEAL MM PER SE, BUT THE IDEAL OVERLAPS WITH ACTUAL WHICH IS A GOOD THING - WILL BE CODED LATER ON
+
+- "Scrolls till the end" -> Why commenting is one of the activity but scrolling is not?
+Do you mean software devleopment activity thye target? Similarly why "Resolves a comment" is not mentioned under "commenting" or "resolving comments"
+THE ACTIVITIES ARE MORE LIKE A GRAVEYARD OF STUFF THAT MIGHT NOT BE CODED AT ALL. IT SHOULD BE REDISTRIBUTED WITHIN THE FRAMEWORK WE ARE USING LATER ON AS WELL. RESOLVING COMMENTS
+
+"Asks a clarifying question in a comment on the doc string." -> Model > Actual -> Annotation?
+DONE
+
+- "they would like to see how it is tested" -> Mental Model > Activities, e.g., Testing or ideal or Comprehension Scope
+PUT IT IN MENTAL MODEL FOR ALL 3 LAYERS FOR NOW. WILL CLARIFY LATER. THE REVIEWER WANTS TO SEE THE TESTS TO HELP THEM UNDERSTAND WHAT THE AUTHOR IS DOING. SO I THINK IT IS PROBABLY SOMETHING AROUND ANNOTATION.
+
+- "writing docs in an imperative form with an example" -> Knowledge base > Team Standard? or Model > Collective/Of others?
+THIS IS THE KNOWLEDGE BASE CASE, WILL BE CODED IN THE NEXT PHASE OF CODING IN DETAIL. DOES NOT SPEAK ABOUT THE MENTAL MODEL OF OTHERS, JUST WHAT THE REVIEWER IS LOOKING FOR AS A STYLE VIOLATION
+
+
+
+

@@ -1,0 +1,12 @@
+Are we sure the reviewer does not perform any context building?
+The reviewer compares the commit, look at files changes, and then looks at the comments. Can not be these parts of context building?
+
+"which allows one to track which files have already been reviewed." -> which files have been modified in this version, do not think they are reviewed.
+
+Searching by keyword has been not mentioned. This can be either part of context building or comment specific?
+
+- "Goes back to the discussion" -> Why "PR conversation" is not mentioned for it?
+
+- "- Goes back to the discussion." -> Why "PR conversation" is not mentioned for it?
+
+ 

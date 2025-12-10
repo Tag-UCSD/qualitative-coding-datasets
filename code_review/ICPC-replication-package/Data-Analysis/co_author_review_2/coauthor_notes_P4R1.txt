@@ -1,0 +1,16 @@
+" This review is an easy one - only an upgrade," -> Comprehension scope
+DONE. THIS MIGHT JUST BE A COMPLEXITY ISSUE, NOT REALLY DEPTH ISSUE.
+
+"Opens the linked Jira issue to check the differences in the versions," -> pre-existing or "of others" or Specific vs Fuzzy? It can also be part of activities as the reviews checks the defects
+THIS IS EFFECTIVELY BUILDING A MENTAL MODEL OF EXTERNAL ARTIFACT AND HOW IT AFFECTS THE ACTUAL REVIEWED PR. ADDED A CODE FOR MMs OF EXTERNAL ARTIFACTS
+
+"component is just part of the test suite so it is not a component that they put to the serve" -> Model > Annotations
+WHY?
+
+
+" Checks in the IDE - only one module is using it and it affects just the test suite" -> Expected; as one of the goal of PR is not to be affecting the features or scope of the PR.
+EXPECTED SIGNIFIES A MENTAL MODEL OF HOW THE CHANGE IS SUPPOSED TO LOOK LIKE IF THAT DIFFERS FROM THE ACTUAL PR.
+
+" Since the PR is passing all the integration jobs  " -> Activities > Testing PR
+HERE THE CICD IS CODED AS AN INFORMATION SOURCE AS THEY DO NOT PERFORM ANY TESTING THEMSELVES. THEN IT WOULD ALREADY BE CAPTURED IN THE CR PROCESS STRATEGY.
+

@@ -1,0 +1,17 @@
+The second author has checked the first proposition of coding for the code review process in 3 reviews and provided feedback. These are the agreed actions to be taken for the next steps of coding, analysis and reporting:
+
+Actions
+File P2R2
+- Top-down should be recoded as scanning as the reviewer only skimmed the compared commits rather than reviewed them
+
+File P9R1
+- Unify beginning of the process as easy to review files
+- Unify the second part as difficult to review
+
+General coding
+- Re-code review size as information source in the initial reviews, unify local developer tools under the code of local environment - IDE, git terminal... 
+- PR conversation is an inherent Information Source for all comment-by-comment reviewing strategies
+
+
+Reporting
+- acknowledge that some information sources are dependent on the purpose of the PR - like PRs addressing an issue 
